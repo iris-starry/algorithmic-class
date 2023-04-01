@@ -1,4 +1,4 @@
-# 🏫 고등학교 알고리즘 수업
+# 알고리즘
 
 기초적인 알고리즘 개념부터 시작하여 알고리즘 설계와 분석 기술을 배우게 됩니다.
 
@@ -15,13 +15,14 @@
 
 
 ## 🛠️ Development Environment
-Scholl coding test
-**Language:** <img src="https://img.shields.io/badge/c++-00599C?style=plastic&logo=c%2B%2B&logoColor=white">
-**Tool:**Dve-C++
+* **Scholl coding test** <br/>
+Language: <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c%2B%2B&logoColor=white"> <br/>
+Tool: <img src="https://img.shields.io/badge/DVE C++-00599C?style=plastic&logo=dev c++%2B%2B&logoColor=white">
 
-(do in-java) Coding test
-* **Language:** <img src="https://img.shields.io/badge/JAVA-007396?style=plastic&logo=java&logoColor=white">
-* **Tool:** <img src="https://img.shields.io/badge/Eclipase IDE-2C2255?style=plastic&logo=Eclipase IDE&logoColor=white">
+* **(do in-java) Coding test** <br/>
+Language: <img src="https://img.shields.io/badge/JAVA-007396?style=plastic&logo=java&logoColor=white"> <br/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=plastic&logo=JAVA&logoColor=white">
+Tool: <img src="https://img.shields.io/badge/Eclipase IDE-2C2255?style=plastic&logo=Eclipase IDE&logoColor=white">
 
 
 
