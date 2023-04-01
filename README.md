@@ -15,11 +15,15 @@
 
 
 ## 🛠️ Development Environment
-school coding test **Language:** <img src="https://img.shields.io/badge/c++-00599C?style=plastic&logo=c%2B%2B&logoColor=white">
+Scholl coding test
+**Language:** <img src="https://img.shields.io/badge/c++-00599C?style=plastic&logo=c%2B%2B&logoColor=white">
+**Tool:**Dve-C++
 
-do it(java) **Language:** <img src="https://img.shields.io/badge/java-FF7800?style=plastic&logo=openJDK&logoColor=white"/>
+(do in-java) Coding test
+**Language:** <img src="https://img.shields.io/badge/java-FF7800?style=plastic&logo=openJDK&logoColor=white"/>
+**Tool:** <img src="https://img.shields.io/badge/Eclipase IDE-2C2255?style=plastic&logo=Eclipase IDE&logoColor=white">
 
-**Tool:** <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=plastic&logo=Visual Studio&logoColor=white">
+
 
 
 
