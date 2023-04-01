@@ -20,8 +20,8 @@ Scholl coding test
 **Tool:**Dve-C++
 
 (do in-java) Coding test
-**Language:** <img src="https://img.shields.io/badge/java-FF7800?style=plastic&logo=openJDK&logoColor=white"/>
-**Tool:** <img src="https://img.shields.io/badge/Eclipase IDE-2C2255?style=plastic&logo=Eclipase IDE&logoColor=white">
+* **Language:** <img src="https://img.shields.io/badge/JAVA-007396?style=plastic&logo=java&logoColor=white">
+* **Tool:** <img src="https://img.shields.io/badge/Eclipase IDE-2C2255?style=plastic&logo=Eclipase IDE&logoColor=white">
 
 
 
